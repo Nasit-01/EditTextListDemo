@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EditTextListDemo</string>
+
+    <string name="add">Add</string>
+    <string name="submit">Submit</string>
+    <string name="empty_msg">There are no EditTextField available, click "Add" to add new edittext field</string>
+    <string name="hint">Enter Value...</string>
+    <string name="edt_error">value must be between 6 and 10 characters.</string>
+    <string name="resulted_data">Resulted Data</string>
+</resources>
